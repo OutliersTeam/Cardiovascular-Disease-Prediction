@@ -1,6 +1,3 @@
-# PML_Project
+# Cardiovascular Disease Prediction
 
-This branch will hold all the essential details of the project.
-[ Keep Commiting ] : ) 
-
-
+The repository contains the source code for __Predicition of Cardiovacular Disease in an Individual using Machine Learning Algorithms__ using the __Cardiovascular Disease Dataset__ on [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
