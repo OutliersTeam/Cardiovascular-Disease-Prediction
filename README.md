@@ -7,16 +7,16 @@ What we aim to do is create an efficient classification model that best predicts
 
 ## Overview of our approach towards the problem
 
-1. Perform Exploratory Data Analysis to gain insights on the Data
-  a. Data Cleaning
-  b. Data Summarization: Describe the data and its distributions
-  c. Data Visualization: Create graphical summaries of the data
+1. Perform Exploratory Data Analysis to gain insights on the Data<br>
+  a. Data Cleaning<br>
+  b. Data Summarization: Describe the data and its distributions<br>
+  c. Data Visualization: Create graphical summaries of the data<br>
   
 2. Transform the data for training the different classification algorithms
 
-4. Apply the different Machine Learning Algorithms
-  a. Train, Cross validate, perform appropriate hyperparameter tuning
-  b. Comparative analysis of the accuracy of the models
+4. Apply the different Machine Learning Algorithms<br>
+  a. Train, Cross validate, perform appropriate hyperparameter tuning<br>
+  b. Comparative analysis of the accuracy of the models<br>
   
 4. Gain insights from the results obtained
 
