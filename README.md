@@ -22,8 +22,9 @@ What we aim to do is create an efficient classification model that best predicts
 
 ## Contributors
 
-* [@BhuvanashreeM](https://github.com/BhuvanashreeM) 🦅
 * [@SaiNikhileshReddy](https://github.com/SaiNikhileshReddy) 🦊
+* [@BhuvanashreeM](https://github.com/BhuvanashreeM) 💎
+* [@Apoorva]() 👸
 
 <!--You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).-->
 
